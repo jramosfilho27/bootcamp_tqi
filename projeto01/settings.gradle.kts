@@ -1,0 +1,1 @@
+rootProject.name = "tqi.jramos.projeto1"
